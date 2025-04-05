@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Yuneonex</title>
+    <link>https://yuneonex.top/blog/</link>
+    <description>Recent content in Blog on Yuneonex</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    
+    
+    
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    
+    
+    <atom:link href="https://yuneonex.top/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folo Verify</title>
+      <link>https://yuneonex.top/folo-verify/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuneonex.top/folo-verify/</guid>
+      <description>&lt;p&gt;This message is used to verify that this feed (feedId:131317138074203136) belongs to me (userId:87510501626797056). Join me in enjoying the next generation information browser &lt;a href=&#34;https://follow.is&#34;&gt;https://follow.is&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>hello world</title>
+      <link>https://yuneonex.top/hello-world/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuneonex.top/hello-world/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s just a simple test for my website.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+baseURL = 'https://yuneonex.top/'
+languageCode = 'zh-cn'
+title = 'Yuneonex'
+theme = 'hugo-bearblog-neo'
+author = "Wenkai Yu"
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+[params]
+  dateFormat = "2006-01-02"
+  followFeedId = "131317138074203136"
+  followUserId = "87510501626797056"
