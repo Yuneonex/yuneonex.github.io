@@ -1,5 +1,5 @@
 +++
-Title: Folo Verify
+Title = "Folo Verify"
 date = "2025-04-05"
 description = "A simple test."
 +++
