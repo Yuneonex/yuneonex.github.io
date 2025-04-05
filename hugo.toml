@@ -13,5 +13,5 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 [params]
   dateFormat = "2006-01-02"
-  followFeedId = "00000000000000000"
-  followUserId = "00000000000000000"
+  followFeedId = "131317138074203136"
+  followUserId = "87510501626797056"
